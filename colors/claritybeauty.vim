@@ -1,5 +1,8 @@
 " Name: claritybeauty
 " Author: Sam Tannous
+"   Based on the Clarity and Beauty Emacs color scheme
+"   found on https://emacsthemes.com/themes/clarity-theme.html
+"   and created by Richard Wellum and Syohei Yoshida.
 "" local syntax file - set colors on a per-machine basis:
 "" vim: tw=0 ts=4 sw=4
 
